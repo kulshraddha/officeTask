@@ -1,0 +1,24 @@
+.dropdown select{
+    width: 60px;
+    height: 40px;
+    border: 0;
+    background-color: rgba(237, 241, 244, 0.646);
+    text-align: center;
+    border-radius: 5px;
+}
+.dropdown{
+    margin-left: 70px;
+}
+
+/* .btn2{
+    margin-left: 70%;
+} */
+
+.both{
+    padding: 20px;
+    justify-content: space-between;
+    display: flex;
+}
+
+
+ 
